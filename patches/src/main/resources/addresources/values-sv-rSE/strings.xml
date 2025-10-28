@@ -313,9 +313,9 @@ Om en doodle visas för närvarande i din region och den här döljningsinställ
   <string name="revanced_hide_timed_reactions_title">Dölj tidsbaserade reaktioner</string>
   <string name="revanced_hide_timed_reactions_summary_on">Tidsbaserade reaktioner är dolda</string>
   <string name="revanced_hide_timed_reactions_summary_off">Tidsbaserade reaktioner visas</string>
-  <string name="revanced_hide_ai_generated_video_summary_section_title">Dölj AI-genererad videosammanfattning</string>
-  <string name="revanced_hide_ai_generated_video_summary_section_summary_on">Avsnittet för AI-genererad videosammanfattning är dolt</string>
-  <string name="revanced_hide_ai_generated_video_summary_section_summary_off">Avsnittet för AI-genererad videosammanfattning visas</string>
+  <string name="revanced_hide_ai_generated_video_summary_section_title">Dölj AI-genererad videoöversikt</string>
+  <string name="revanced_hide_ai_generated_video_summary_section_summary_on">Avsnittet AI-genererad videoöversikt är dolt</string>
+  <string name="revanced_hide_ai_generated_video_summary_section_summary_off">Avsnittet AI-genererad videoöversikt visas</string>
   <string name="revanced_hide_ask_section_title">Dölj Fråga</string>
   <string name="revanced_hide_ask_section_summary_on">Avsnittet Fråga är dolt</string>
   <string name="revanced_hide_ask_section_summary_off">Avsnittet Fråga visas</string>
